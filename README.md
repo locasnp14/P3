@@ -8,6 +8,7 @@ O projeto está estruturado da seguinte forma:
 2. Ao analisar os detalhes do pokemon, da um ligeiro scroll para baixo e inicia uma batalha com um pokemon aleatório;
 3. Como não está finalizado e não foi possivel fazer a batalha, após entrar no ecrã da batalha, para sair, terá de fechar a aplicação e mandando a abaixo no menu inicial, ou mesmmo correndo novamente o projeto. 
 4. Se fizer o passo anterior, irá sempre buscar um pokemon novo para uma batalha, pois estas são unicas.
+5. Removi as previews do Projeto, pois estavam a dar problemas, terá de iniciar sempre um novo emulador.
 
 O que faltava a meu ver fazer?
 
